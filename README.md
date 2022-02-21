@@ -18,28 +18,26 @@ Dataset has ten types of genres with uniform distribution.
 Dataset has the following genres: blues, classical, country,
  disco, hiphop, jazz, reggae, rock, metal, 
 and pop. Each music file is 30 seconds long.
-
-![](Images/Screenshot%202022-02-08%20211539.png)
-
-![](Images/Screenshot%202022-02-08%20232727.png)
-
-![](Images/Screenshot%202022-02-08%20211600.png)
-
-
-
-![](Images/Screenshot%202022-02-08%20232806.png)
-
-![](Images/Screenshot%202022-02-08%20232823.png)
-
-![](Images/Screenshot%202022-02-08%20232843.png)
-
-![](Images/Screenshot%202022-02-08%20232858.png)
-
-![](Images/Screenshot%202022-02-08%20232929.png)
-
-![](Images/Screenshot%202022-02-08%20232943.png)
-
-![](Images/Screenshot%202022-02-08%20233023.png)
+<p float="left">
+  <img src="Images/Screenshot%202022-02-08%20211539.png" width="500" height="300" />
+  <img src="Images/Screenshot%202022-02-08%20211600.png" width="500" height="300" /> 
+</p>
+<p float="left">
+  <img src="Images/Screenshot%202022-02-21%20232727.png" width="500" height="300" />
+  <img src="Images/Screenshot%202022-02-21%20232806.png" width="500" height="300" /> 
+</p>
+<p float="left">
+  <img src="Images/Screenshot%202022-02-21%20232823.png" width="500" height="300" />
+  <img src="Images/Screenshot%202022-02-21%20232843.png" width="500" height="300" /> 
+</p>
+<p float="left">
+  <img src="Images/Screenshot%202022-02-21%20232858.png" width="500" height="300" />
+  <img src="Images/Screenshot%202022-02-21%20232929.png" width="500" height="300" /> 
+</p>
+<p float="left">
+  <img src="Images/Screenshot%202022-02-21%20232943.png" width="500" height="300" />
+  <img src="Images/Screenshot%202022-02-21%20233023.png" width="500" height="300" /> 
+</p>
 
 # Preprocessing
     
@@ -78,6 +76,7 @@ and pop. Each music file is 30 seconds long.
 
 - Trained for 100 epochs getting a validation accuracy of 61.98%
 
+![](Images/ann1.png)
 
 
 **Simple ANN with Dropouts and L2-Regularization**
@@ -100,6 +99,9 @@ and pop. Each music file is 30 seconds long.
   0.0001 with sparse categorical cross entropy as the loss function
 
 - Trained for 100 epochs getting a validation accuracy of 68.00%
+
+
+![](Images/ann2.png)
 
 
 **Convolutional Nueral Network**
@@ -132,6 +134,8 @@ and pop. Each music file is 30 seconds long.
 
 - Trained for 100 epochs getting a validation accuracy of 73.97%
 
+![](Images/cnn.png)
+
 
 **Vanilla LSTMs**
     
@@ -148,6 +152,8 @@ and pop. Each music file is 30 seconds long.
   0.0001 with sparse categorical cross entropy as the loss function
 
 - Trained for 100 epochs getting a validation accuracy of 66.60%
+
+![](Images/lstm.png)
 
 
 
