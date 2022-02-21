@@ -23,20 +23,20 @@ and pop. Each music file is 30 seconds long.
   <img src="Images/Screenshot%202022-02-08%20211600.png" width="410" height="300" /> 
 </p>
 <p float="left">
-  <img src="Images/Screenshot%202022-02-21%20232727.png" width="500" height="300" />
-  <img src="Images/Screenshot%202022-02-21%20232806.png" width="500" height="300" /> 
+  <img src="Images/Screenshot%202022-02-21%20232727.png" width="410" height="300" />
+  <img src="Images/Screenshot%202022-02-21%20232806.png" width="410" height="300" /> 
 </p>
 <p float="left">
-  <img src="Images/Screenshot%202022-02-21%20232823.png" width="500" height="300" />
-  <img src="Images/Screenshot%202022-02-21%20232843.png" width="500" height="300" /> 
+  <img src="Images/Screenshot%202022-02-21%20232823.png" width="410" height="300" />
+  <img src="Images/Screenshot%202022-02-21%20232843.png" width="410" height="300" /> 
 </p>
 <p float="left">
-  <img src="Images/Screenshot%202022-02-21%20232858.png" width="500" height="300" />
-  <img src="Images/Screenshot%202022-02-21%20232929.png" width="500" height="300" /> 
+  <img src="Images/Screenshot%202022-02-21%20232858.png" width="410" height="300" />
+  <img src="Images/Screenshot%202022-02-21%20232929.png" width="410" height="300" /> 
 </p>
 <p float="left">
-  <img src="Images/Screenshot%202022-02-21%20232943.png" width="500" height="300" />
-  <img src="Images/Screenshot%202022-02-21%20233023.png" width="500" height="300" /> 
+  <img src="Images/Screenshot%202022-02-21%20232943.png" width="410" height="300" />
+  <img src="Images/Screenshot%202022-02-21%20233023.png" width="410" height="300" /> 
 </p>
 
 # Preprocessing
