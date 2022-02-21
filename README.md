@@ -19,7 +19,7 @@ Dataset has the following genres: blues, classical, country,
  disco, hiphop, jazz, reggae, rock, metal, 
 and pop. Each music file is 30 seconds long.
 
-![](Images/Screenshot 2022-02-08 211539.png)
+![Pop](Images/Screenshot 2022-02-08 211539.png)
 
 # Preprocessing
     
