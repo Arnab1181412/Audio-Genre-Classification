@@ -21,9 +21,11 @@ and pop. Each music file is 30 seconds long.
 
 ![](Images/Screenshot%202022-02-08%20211539.png)
 
+![](Images/Screenshot%202022-02-08%20232727.png)
+
 ![](Images/Screenshot%202022-02-08%20211600.png)
 
-![](Images/Screenshot%202022-02-08%20232727.png)
+
 
 ![](Images/Screenshot%202022-02-08%20232806.png)
 
@@ -38,17 +40,6 @@ and pop. Each music file is 30 seconds long.
 ![](Images/Screenshot%202022-02-08%20232943.png)
 
 ![](Images/Screenshot%202022-02-08%20233023.png)
-
-
-
-
-
-
-
-
-
-
-
 
 # Preprocessing
     
